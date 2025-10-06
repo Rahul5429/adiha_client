@@ -8,8 +8,7 @@ The frontend communicates with the backend API to provide a seamless task manage
 
 ## 🚀 Live Demo
 
-🔗 **Frontend (Deployed on Vercel):** [https://your-frontend.vercel.app](https://your-frontend.vercel.app)  
-🔗 **Backend API (Deployed on Render):** [https://your-backend.onrender.com/api](https://your-backend.onrender.com/api)  
+🔗 **Frontend (Deployed on Vercel):** [https://adiha-client.vercel.app/](https://adiha-client.vercel.app/) 
 
 ---
 
